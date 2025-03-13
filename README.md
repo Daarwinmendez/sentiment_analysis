@@ -22,7 +22,7 @@ Para ejecutar este notebook se debe descargar el archivo `requirements.txt` que 
 pip install -r requirements.txt
 ```
 ## Uso
-1. Clona este repositorio o descarga el archivo intent_recognition_main.ipynb.
+1. Clona este repositorio o descarga el archivo sentiment_analysis.ipynb.
 2. Descarga el archivo requirements.txt y ejecuta el comando de instalación mencionado.
 3. Abre el notebook y ejecuta las celdas en orden para:
   * Preprocesar los datos.
